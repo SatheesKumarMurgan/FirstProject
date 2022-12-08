@@ -40,6 +40,10 @@ public class Employee {
 		System.out.println("10000");
 	}
 
+	private void empSalary() {
+		System.out.println("900000");
+	}
+
 	public static void main(String[] args) {
 		Employee e = new Employee();
 		e.empAddress();
