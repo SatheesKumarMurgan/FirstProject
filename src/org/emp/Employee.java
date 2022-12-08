@@ -7,7 +7,7 @@ public class Employee {
 	}
 	
 	private void empNmae() {
-	    System.out.println("empName.sathees");
+	    System.out.println("empName.satheesKumar");
       
 	}
 	private void empDob() {
