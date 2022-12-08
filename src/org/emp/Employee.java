@@ -36,6 +36,11 @@ public class Employee {
 
 	}
 
+	private void empPF() {
+		System.out.println("10000");
+	}
+
+
 	private void empSalary() {
 		System.out.println("900000");
 	}
