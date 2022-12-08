@@ -27,6 +27,10 @@ public class Employee {
 	    System.out.println("madurai");
 
 	}
+	private void empPincode() {
+		System.out.println("600097");
+
+	}
   public static void main(String[] args) {
    Employee e = new Employee();
    e.empAddress();
